@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+![GitHub ReadMe Header](banner.jpg)
+
+
 Hey! My name is Jyoti, and I am a passionate java developer doing full stack. I program in Java, Springboot stack and vue js, alongside other frameworks and libraries. I am experienced in using docker, AWS and kuberneties. I am currently persuing Data Science Certification from Univeristy Of Toronto. 
 
 <!-- Stats Dashboard -->
