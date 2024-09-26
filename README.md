@@ -2,8 +2,16 @@
   <img src="banner.jpg" width="300" height="300"/>
 </div>
 
+Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">! My name is Jyoti! Welcome to my page.
 
-Hey! My name is Jyoti, and I am a passionate java developer doing full stack. I program in Java, Springboot stack and vue js, alongside other frameworks and libraries. I am experienced in using docker, AWS and kuberneties. I am currently persuing Data Science Certification from Univeristy Of Toronto. 
+#### Professional Persona:
+
+- **Problem Solver:** I find joy in exploring diverse perspectives and crafting creative/unexpected solutions. Solving puzzles energises me and adds zest to my daily work.
+- **Team Player:** I enhance project outcomes by employing (if appropriate) Agile methodologies like Scrum, Lean, Kanban, and XP.
+- **Tech Explorer:** My career is a constant adventure in learning and pushing the boundaries working in various buisness domains - Telecom, Digitial, Ecommerece, Healthcare IT, utilizing my programming skills to deliver industry standard and quality applications.
+- **Learning Data Science**: As data is the new gold and the new oil, data is also the new currency. I am passionately learning this unique and high demanding skill to generate more insights for buisnesses to make better decisions. I am currently pursuing Data Science certification from DSI , University of Toronto.
+
+<br>
 
 <!-- Stats Dashboard -->
 
@@ -35,7 +43,7 @@ Hey! My name is Jyoti, and I am a passionate java developer doing full stack. I 
 </p>
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 
 
   
