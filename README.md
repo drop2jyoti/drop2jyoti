@@ -1,4 +1,6 @@
-![GitHub ReadMe Header](banner.jpg)
+<div align="center">
+  <img src="banner.jpg" width="300" height="300"/>
+</div>
 
 
 Hey! My name is Jyoti, and I am a passionate java developer doing full stack. I program in Java, Springboot stack and vue js, alongside other frameworks and libraries. I am experienced in using docker, AWS and kuberneties. I am currently persuing Data Science Certification from Univeristy Of Toronto. 
